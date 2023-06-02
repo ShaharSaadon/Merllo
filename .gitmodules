@@ -1,0 +1,3 @@
+[submodule "merllo-frontend"]
+	path = merllo-frontend
+	url = https://github.com/ShaharSaadon/merllo-frontend
