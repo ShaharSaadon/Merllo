@@ -1,3 +1,6 @@
 [submodule "merllo-frontend"]
 	path = merllo-frontend
 	url = https://github.com/ShaharSaadon/merllo-frontend
+[submodule "merllo-backend"]
+	path = merllo-backend
+	url = https://github.com/TomerHuberman/merllo-backend.git
